@@ -1,12 +1,21 @@
 body{
   
 }
+h2{
+    text-align:center;
+}
 h1{
     font-size:50px;
+    text-align:left;
+}
+.left-border{
+    20px solid orange;
+}p{
+    text-align:justify;
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 200px;
 }
 .half-width{
     width: 50%;
@@ -22,6 +31,5 @@ h1{
     border-radius : 5%;
 }
 .design-item{
-    border-left: 5px tomato;
-    border-top
+    border-left: 5px solid tomato;
     }

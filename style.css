@@ -1,0 +1,30 @@
+body{
+  
+}
+h1{
+    font-size:50px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150;
+}
+.half-width{
+    width: 50%;
+    padding-left:120px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding :10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius : 5%;
+}
+.design-item{
+    border-left: 5px tomato;
+    border-top
+    
+}
+   
+}

@@ -7,13 +7,15 @@ h2{
 h1{
     font-size:50px;
     text-align:left;
-    color: tomato
-    
 }
 .left-border{
     20px solid orange;
-}p{
+}
+p{
     text-align:justify;
+}
+.orange-color{
+    color: orange;
 }
 .flexible-container{
     display: flex;
@@ -31,6 +33,12 @@ h1{
     color: white;
     font-weight: 700;
     border-radius : 5%;
+}
+.left-align{
+    text-align:justify;
+    padding:10px;
+    margin-left:0;
+
 }
 .design-item{
     border-left: 5px solid tomato;

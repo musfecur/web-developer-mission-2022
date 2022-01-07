@@ -43,3 +43,7 @@ p{
 .design-item{
     border-left: 5px solid tomato;
     }
+    .center{
+        text-align: center;
+    }
+   
